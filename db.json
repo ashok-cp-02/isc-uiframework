@@ -1,0 +1,136 @@
+{
+  "theme": [
+    {
+      "title": "T600",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Theme",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "1",
+      "date": "May 30, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/t600v1/"
+    },
+    {
+      "title": "T500",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Theme",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "1",
+      "date": "May 30, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/t500v3/"
+    },
+    {
+      "title": "CRM",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "May 30, 2025",
+      "logo": "CRMlogo",
+      "url": "https://iscgs-proto.archarina.com/arccrmv1/"
+    },
+    {
+      "title": "Planner",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://uiframework.archarina.com/plannerproto/"
+    },
+    {
+      "title": "ArcTime",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/arctimeprotov51/"
+    },
+    {
+      "title": "ArcSheets",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/arcsheets/"
+    },
+    {
+      "title": "Application Tracker",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/applicationtracker/"
+    },
+    {
+      "title": "ArcOM",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.2",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/arcomv2/list"
+    },
+    {
+      "title": "Recipe Manager",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/recipemanager/"
+    },
+    {
+      "title": "ArcHiring",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v51.0.0",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/archiringv51/"
+    },
+    {
+      "title": "ArcPay",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://acme-qa.archarina.com/ArcPay/"
+    },
+    {
+      "title": "Account Payable",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Jan 6, 2025",
+      "logo": "Arclogo",
+      "url": "https://acme-qa.archarina.com/AP/"
+    }
+  ]
+}
