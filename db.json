@@ -40,7 +40,7 @@
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "2",
-      "date": "Jan 6, 2025",
+      "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://uiframework.archarina.com/plannerproto/"
     },
@@ -51,7 +51,7 @@
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "2",
-      "date": "Jan 6, 2025",
+      "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://iscgs-proto.archarina.com/arctimeprotov51/"
     },
@@ -62,7 +62,7 @@
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "2",
-      "date": "Jan 6, 2025",
+      "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://iscgs-proto.archarina.com/arcsheets/"
     },
@@ -73,7 +73,7 @@
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "2",
-      "date": "Jan 6, 2025",
+     "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://iscgs-proto.archarina.com/applicationtracker/"
     },
@@ -84,7 +84,7 @@
       "applicationtype": "Internal",
       "version": "v0.2",
       "tag": "2",
-      "date": "Jan 6, 2025",
+      "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://iscgs-proto.archarina.com/arcomv2/list"
     },
@@ -95,7 +95,7 @@
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "2",
-      "date": "Jan 6, 2025",
+      "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://iscgs-proto.archarina.com/recipemanager/"
     },
@@ -106,9 +106,20 @@
       "applicationtype": "Internal",
       "version": "v51.0.0",
       "tag": "2",
-      "date": "Jan 6, 2025",
+      "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://iscgs-proto.archarina.com/archiringv51/"
+    },
+    {
+      "title": "Employee Portal",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "May 30, 2025",
+      "logo": "Arclogo",
+      "url": "http://iscgs-proto.archarina.com/employeeportal/"
     },
     {
       "title": "ArcPay",
@@ -117,7 +128,7 @@
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "2",
-      "date": "Jan 6, 2025",
+      "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://acme-qa.archarina.com/ArcPay/"
     },
@@ -128,7 +139,7 @@
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "2",
-      "date": "Jan 6, 2025",
+      "date": "May 30, 2025",
       "logo": "Arclogo",
       "url": "https://acme-qa.archarina.com/AP/"
     }
