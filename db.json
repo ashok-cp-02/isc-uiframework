@@ -122,6 +122,17 @@
       "url": "http://iscgs-proto.archarina.com/employeeportal/"
     },
     {
+      "title": "ArcTicketing",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v51",
+      "tag": "2",
+      "date": "May 30, 2025",
+      "logo": "Arclogo",
+      "url": "http://iscgs-proto.archarina.com/arcticketingV51/"
+    },
+    {
       "title": "ArcPay",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Prototype",
