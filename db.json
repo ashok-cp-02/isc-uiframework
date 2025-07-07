@@ -12,6 +12,17 @@
       "url": "https://iscgs-proto.archarina.com/t600v1/"
     },
     {
+      "title": "T600 NPM",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Theme",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "1",
+      "date": "July 07, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/arc-theme-t600-v1/"
+    },
+    {
       "title": "T500",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Theme",
