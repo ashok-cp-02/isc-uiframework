@@ -20,7 +20,7 @@
       "tag": "1",
       "date": "August 7, 2025",
       "logo": "Arclogo",
-      "url": "https://iscgs-proto.archarina.com/t600v1/"
+      "url": "https://iscgs-proto.archarina.com/t600v2/"
     },
     {
       "title": "T600 NPM",
@@ -178,4 +178,5 @@
     }
   ]
 }
+
 
