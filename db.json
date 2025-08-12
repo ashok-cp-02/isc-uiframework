@@ -58,7 +58,7 @@
     {
       "title": "ARC AI",
       "desc": "A single integrated platform to run every aspect of your Business.",
-      "type": "Proto",
+      "type": "Prototype",
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "1",
@@ -200,6 +200,7 @@
     }
   ]
 }
+
 
 
 
