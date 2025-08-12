@@ -56,6 +56,17 @@
       "url": "https://iscgs-proto.archarina.com/t500v3/"
     },
     {
+      "title": "ARC AI",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Proto",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "1",
+      "date": "August 12, 2025",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/arcai/"
+    },
+    {
       "title": "CRM",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Prototype",
@@ -189,6 +200,7 @@
     }
   ]
 }
+
 
 
 
