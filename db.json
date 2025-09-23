@@ -6,7 +6,7 @@
       "type": "Prototype",
       "applicationtype": "Internal",
       "version": "v0.0.1",
-      "tag": "1",
+      "tag": "2",
       "date": "Sep 23, 2025",
       "logo": "Arclogo",
       "url": "https://ameriprise-proto.archarina.app/"
@@ -23,7 +23,7 @@
       "url": "https://arctheme.archarina.app/"
     },
     {
-      "title": "T600",
+      "title": "T600 v1",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Theme",
       "applicationtype": "Internal",
@@ -34,7 +34,7 @@
       "url": "https://iscgs-proto.archarina.com/t600v1/"
     },
     {
-      "title": "T600 V2",
+      "title": "T600 v2",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Theme",
       "applicationtype": "Internal",
@@ -211,6 +211,7 @@
     }
   ]
 }
+
 
 
 
