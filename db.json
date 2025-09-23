@@ -1,15 +1,26 @@
 {
   "theme": [
     {
-      "title": "Micro Frontend - T600",
+      "title": "Micro Frontend - T600_Proto",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "1",
+      "date": "Sep 23, 2025",
+      "logo": "Arclogo",
+      "url": "https://ameriprise-proto.archarina.app/"
+    },
+    {
+      "title": "Micro Frontend - T600_Theme",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Theme",
       "applicationtype": "Internal",
       "version": "v0.0.1",
       "tag": "1",
-      "date": "August 11, 2025",
+      "date": "Sep 23, 2025",
       "logo": "Arclogo",
-      "url": "https://arcweb.innospire.app/"
+      "url": "https://arctheme.archarina.app/"
     },
     {
       "title": "T600",
@@ -200,6 +211,7 @@
     }
   ]
 }
+
 
 
 
