@@ -1,7 +1,7 @@
 {
   "theme": [
     {
-      "title": "Micro Frontend - T600_Proto",
+      "title": "T600_Proto - MFE",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Prototype",
       "applicationtype": "Internal",
@@ -12,7 +12,7 @@
       "url": "https://ameriprise-proto.archarina.app/"
     },
     {
-      "title": "Micro Frontend - T600_Theme",
+      "title": "T600_Theme - MFE",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Theme",
       "applicationtype": "Internal",
@@ -23,7 +23,7 @@
       "url": "https://arctheme.archarina.app/"
     },
     {
-      "title": "T600 v1",
+      "title": "T600 Basic Theme v1",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Theme",
       "applicationtype": "Internal",
@@ -34,7 +34,7 @@
       "url": "https://iscgs-proto.archarina.com/t600v1/"
     },
     {
-      "title": "T600 v2",
+      "title": "T600 Basic Theme v2",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Theme",
       "applicationtype": "Internal",
@@ -211,6 +211,7 @@
     }
   ]
 }
+
 
 
 
