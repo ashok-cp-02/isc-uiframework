@@ -3,10 +3,10 @@
     {
       "title": "Arc NPM T600",
       "desc": "A single integrated platform to run every aspect of your Business.",
-      "type": "Prototype",
+      "type": "Theme",
       "applicationtype": "Internal",
       "version": "v0.0.2",
-      "tag": "2",
+      "tag": "1",
       "date": "Dec 04, 2025",
       "logo": "Arclogo",
       "url": "https://iscgs-proto.archarina.com/arcnpmt600/"
@@ -222,6 +222,7 @@
     }
   ]
 }
+
 
 
 
