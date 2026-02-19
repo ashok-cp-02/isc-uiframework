@@ -56,6 +56,28 @@
       "url": "https://iscgs-proto.archarina.com/t600v2/"
     },
     {
+      "title": "Figma Ticket Proto",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Feb 19, 2026",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/figma-ticket-proto/"
+    },
+    {
+      "title": "Figma Invoice Proto",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Prototype",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "2",
+      "date": "Feb 19, 2026",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/figma-invoice-proto/"
+    },
+    {
       "title": "T600 NPM",
       "desc": "A single integrated platform to run every aspect of your Business.",
       "type": "Theme",
@@ -244,6 +266,7 @@
     }
   ]
 }
+
 
 
 
