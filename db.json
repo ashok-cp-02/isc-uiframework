@@ -1,5 +1,16 @@
 {
   "theme": [
+     {
+      "title": "ArcT700 Design System",
+      "desc": "A single integrated platform to run every aspect of your Business.",
+      "type": "Theme",
+      "applicationtype": "Internal",
+      "version": "v0.0.1",
+      "tag": "1",
+      "date": "July 02, 2026",
+      "logo": "Arclogo",
+      "url": "https://iscgs-proto.archarina.com/t700designsystem/"
+    },
     {
       "title": "Arc NPM T600",
       "desc": "A single integrated platform to run every aspect of your Business.",
